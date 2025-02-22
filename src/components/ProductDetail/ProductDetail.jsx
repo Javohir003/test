@@ -6,7 +6,7 @@ function ProductDetail() {
     const params = useParams();
     const navigate = useNavigate()
     const paramsID = params.id
-    const {data: product} = UserFetch("https://fvnfzhsmooudxwftabmv.supabase.co/storage/v1/object/sign/Data/db.json?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJEYXRhL2RiLmpzb24iLCJpYXQiOjE3NDAyMjA4MTksImV4cCI6MTc3MTc1NjgxOX0.hxCmys3530YWxZzN0-tNz3dSCxQVjOkWgRI8ZJBC-K0");
+    const {data: product} = UserFetch("https://fvnfzhsmooudxwftabmv.supabase.co/storage/v1/object/sign/Data/db.json?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJEYXRhL2RiLmpzb24iLCJpYXQiOjE3NDAyMjEyNDgsImV4cCI6MTc3MTc1NzI0OH0.YEqn4NEzipCQdYe_betYioQO2P35y4HuXlpp993xssE");
     
     const productDetailID = product?.products.find((product)=> product.id === parseInt(paramsID))
     

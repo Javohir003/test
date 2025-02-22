@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { UserFetch } from "../../hook/UserFetch";
 
 function ProductAll() {
-  const { data: product } = UserFetch("https://fvnfzhsmooudxwftabmv.supabase.co/storage/v1/object/sign/Data/db.json?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJEYXRhL2RiLmpzb24iLCJpYXQiOjE3NDAyMjA4MTksImV4cCI6MTc3MTc1NjgxOX0.hxCmys3530YWxZzN0-tNz3dSCxQVjOkWgRI8ZJBC-K0");
+  const { data: product } = UserFetch("https://fvnfzhsmooudxwftabmv.supabase.co/storage/v1/object/sign/Data/db.json?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJEYXRhL2RiLmpzb24iLCJpYXQiOjE3NDAyMjEyNDgsImV4cCI6MTc3MTc1NzI0OH0.YEqn4NEzipCQdYe_betYioQO2P35y4HuXlpp993xssE");
   let prod = product?.products;
 
 
