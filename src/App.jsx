@@ -6,6 +6,8 @@ import About from "./Pages/About/About"
 import Home from "./Pages/Home/Home"
 import ProductAll from './components/Product/ProductAll'
 import ProductDetail from './components/ProductDetail/ProductDetail'
+import { Analytics } from "@vercel/analytics/react"
+
 
 function App() {
   const routes = createBrowserRouter([
@@ -49,6 +51,7 @@ function App() {
     //   <h1 className='text-[50px] text-white font-black'>Hello World</h1>
     // </div>
     <div>
+      <Analytics />
       <RouterProvider router={routes} />
     </div>
   )
