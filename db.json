@@ -1,0 +1,99 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Iphone 16 pro max",
+      "description": "iPhone 16 taqdimoti - kelajak sizning qo'lingizda. Ajoyib quvvat va ilg'or texnologiyalarga ega iPhone 16 mukammallikka intiladiganlar uchun mo'ljallangan. Bizning eng soʻnggi shaxsiy razvedka yordamchimiz Apple Intelligence qurilmangizning yuragiga integratsiyalangan boʻlib, maʼlumotlaringiz xavfsiz ekanligiga ishonch bilan osongina yaratish, ishlash va yangi choʻqqilarga erishishingizga yordam beradi. Maxfiylik va mahsuldorlik juda mos keladi.",
+      "images": [
+        {
+          "id": 1,
+          "cardImg": "./public/Imgs1.jpg"
+        },
+        {
+          "id": 2,
+          "cardImg": "./public/Imgs2.jpg"
+        },
+        {
+          "id": 3,
+          "cardImg": "./public/Imgs3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Iphone 15 pro max",
+      "description": "iPhone 15 taqdimoti - kelajak sizning qo'lingizda. Ajoyib quvvat va ilg'or texnologiyalarga ega iPhone 16 mukammallikka intiladiganlar uchun mo'ljallangan. Bizning eng soʻnggi shaxsiy razvedka yordamchimiz Apple Intelligence qurilmangizning yuragiga integratsiyalangan boʻlib, maʼlumotlaringiz xavfsiz ekanligiga ishonch bilan osongina yaratish, ishlash va yangi choʻqqilarga erishishingizga yordam beradi. Maxfiylik va mahsuldorlik juda mos keladi.",
+      "images": [
+        {
+          "id": 1,
+          "cardImg": "./public/img1.jpg"
+        },
+        {
+          "id": 2,
+          "cardImg": "./public/img2.jpg"
+        },
+        {
+          "id": 3,
+          "cardImg": "./public/img3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Iphone 13 pro max",
+      "description": "iPhone 13 pro max taqdimoti - kelajak sizning qo'lingizda. Ajoyib quvvat va ilg'or texnologiyalarga ega iPhone 16 mukammallikka intiladiganlar uchun mo'ljallangan. Bizning eng soʻnggi shaxsiy razvedka yordamchimiz Apple Intelligence qurilmangizning yuragiga integratsiyalangan boʻlib, maʼlumotlaringiz xavfsiz ekanligiga ishonch bilan osongina yaratish, ishlash va yangi choʻqqilarga erishishingizga yordam beradi. Maxfiylik va mahsuldorlik juda mos keladi.",
+      "images": [
+        {
+          "id": 1,
+          "cardImg": "./public/imgp1.jpg"
+        },
+        {
+          "id": 2,
+          "cardImg": "./public/imgp2.jpg"
+        },
+        {
+          "id": 3,
+          "cardImg": "./public/imgp3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Iphone 12 pro max",
+      "description": "iPhone 12 pro max taqdimoti - kelajak sizning qo'lingizda. Ajoyib quvvat va ilg'or texnologiyalarga ega iPhone 16 mukammallikka intiladiganlar uchun mo'ljallangan. Bizning eng soʻnggi shaxsiy razvedka yordamchimiz Apple Intelligence qurilmangizning yuragiga integratsiyalangan boʻlib, maʼlumotlaringiz xavfsiz ekanligiga ishonch bilan osongina yaratish, ishlash va yangi choʻqqilarga erishishingizga yordam beradi. Maxfiylik va mahsuldorlik juda mos keladi.",
+      "images": [
+        {
+          "id": 1,
+          "cardImg": "./public/imga1.jpg"
+        },
+        {
+          "id": 2,
+          "cardImg": "./public/imga2.jpg"
+        },
+        {
+          "id": 3,
+          "cardImg": "./public/imga3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Iphone 14 pro max",
+      "description": "iPhone 14 pro max taqdimoti - kelajak sizning qo'lingizda. Ajoyib quvvat va ilg'or texnologiyalarga ega iPhone 16 mukammallikka intiladiganlar uchun mo'ljallangan. Bizning eng soʻnggi shaxsiy razvedka yordamchimiz Apple Intelligence qurilmangizning yuragiga integratsiyalangan boʻlib, maʼlumotlaringiz xavfsiz ekanligiga ishonch bilan osongina yaratish, ishlash va yangi choʻqqilarga erishishingizga yordam beradi. Maxfiylik va mahsuldorlik juda mos keladi.",
+      "images": [
+        {
+          "id": 1,
+          "cardImg": "./public/imgk1.jpg"
+        },
+        {
+          "id": 2,
+          "cardImg": "./public/imgk2.jpg"
+        },
+        {
+          "id": 3,
+          "cardImg": "./public/imgk3.jpg"
+        }
+      ]
+    }
+  ]
+}
